@@ -14,11 +14,11 @@ iStock Downloader is an upcoming browser extension designed to streamline the pr
 
 **This extension is not yet available for download.** Development is in progress and a release date has not been announced. Sign up below to get notified when it launches.
 
-:bell: **Get notified when this launches:** [Join the waitlist](https://serp.ly/coming-soon-extensions)
+:bell: **Get notified when this launches:** [Join the waitlist](https://serp.ly/istock-downloader)
 
 ## Links
 
-- :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://serp.ly/coming-soon-extensions)
+- :hourglass_flowing_sand: Waitlist: [Coming Soon — Sign Up](https://serp.ly/istock-downloader)
 - :question: Help center: [SERP Help](https://help.serp.co/en/)
 - :bulb: Request features: [GitHub Issues](https://github.com/serpapps/istock-downloader/issues)
 
